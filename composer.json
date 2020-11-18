@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpunit/php-text-template": "^2.0"
+    }
+}
